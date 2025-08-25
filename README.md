@@ -6,7 +6,7 @@ This repository contains the official implementation for the research project on
 
 For comparison, this project also implements and evaluates several baseline CNN architectures: **ResNet50, EfficientNet-B3, and VGG16**. A key focus of this research is on **model explainability**, generating high-accuracy attention maps to understand the ViT's decision-making process.
 
-<!-- You can add a key result image here if you have one -->
+![Explainability Example](./assets/final_heatmap_fold_3_img_2155_true_Pathological_Myopia_pred_Pathological_Myopia.png)
 
 ---
 
